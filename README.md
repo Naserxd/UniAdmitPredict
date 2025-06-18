@@ -32,3 +32,11 @@ CGPA: 9.0
 Research: 1
 
 Predicted Chance of Admit: 0.81
+
+## 📌 Note
+- This is a **demo** and not an official admissions tool.
+- The dataset used is a public one: [Kaggle](https://www.kaggle.com/datasets/mohansacharya/graduate-admissions).
+
+## 🧑‍💻 Author
+[Naser](https://github.com/Naserxd)
+
